@@ -3,7 +3,7 @@ def addition(num1, num2)
   num1 = 5
   result = num2 + num1
   puts result
-end
+end(5,4)
 
 addition
 
