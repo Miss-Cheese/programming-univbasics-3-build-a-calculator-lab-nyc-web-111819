@@ -2,8 +2,7 @@ def addition(num1, num2)
   num2 = 3
   num1 = 1
   result = num2 + num1
-
-puts result
+  puts result
 end
 
 def subtraction(num1, num2)
