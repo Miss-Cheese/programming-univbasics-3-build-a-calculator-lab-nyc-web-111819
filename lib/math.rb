@@ -38,7 +38,7 @@ end
 modulo(34,5)
 
 def square_root(num)
-  result = square_root(num)
+  result = sqrt(num)
 end
 
 square_root(81)
