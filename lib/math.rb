@@ -38,7 +38,7 @@ end
 modulo(34,5)
 
 def square_root(num)
-  result = Integer.
+  result = Integer.sqrt
 end
 
 square_root(81)
